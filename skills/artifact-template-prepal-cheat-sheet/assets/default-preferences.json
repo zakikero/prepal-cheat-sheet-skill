@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "language": "fr-CA",
+  "printed_pages": 2,
+  "layout": {
+    "paper": "Letter",
+    "orientation": "portrait",
+    "columns": 4,
+    "column_gap_twips": 150,
+    "column_separators": true,
+    "margins_twips": {
+      "top": 380,
+      "bottom": 300,
+      "left": 300,
+      "right": 300
+    },
+    "header_distance_twips": 140,
+    "footer_distance_twips": 150,
+    "body_font": "Calibri",
+    "body_font_pt": 6.5,
+    "math_font": "Cambria Math",
+    "heading_font_pt": 8.5,
+    "heading_color": "1F4E78",
+    "line_spacing_multiple": 0.75,
+    "paragraph_space_before_pt": 0,
+    "paragraph_space_after_pt": 0,
+    "body_alignment": "justified",
+    "table_header_fill": "DDEBF7",
+    "automatic_font_shrinking": false
+  },
+  "content": {
+    "organization": "by-topic",
+    "detail_mode": "compact",
+    "priority_topics": [],
+    "include_definitions": true,
+    "include_comparisons": true,
+    "include_formula_conditions_and_units": true,
+    "include_worked_examples": "ask",
+    "include_procedures": true,
+    "include_common_mistakes": true,
+    "abbreviations": "define-unfamiliar",
+    "fill_available_space": true,
+    "include_diagrams": "ask"
+  },
+  "delivery": {
+    "formats": [
+      "docx",
+      "pdf"
+    ],
+    "coverage_companion": true,
+    "print_scale_percent": 100
+  }
+}

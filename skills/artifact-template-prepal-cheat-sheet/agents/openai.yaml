@@ -1,0 +1,7 @@
+interface:
+  display_name: "Prepal Cheat Sheet"
+  short_description: "Dense exam sheets with adjustable layout and examples"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-prepal-cheat-sheet to create a source-grounded study sheet from my course materials. Fill the available space with relevant content and ask about examples or diagrams when I have not specified them."
+policy:
+  allow_implicit_invocation: true
